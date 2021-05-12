@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Third Party assets.  This will be anything heavy file size wise and anything that comes from the asset store as it is freely avaialble to all.  This folder will be ignored by git meaning you will need to maintain a copy of it on your local computer.  Instructions for this will follow.

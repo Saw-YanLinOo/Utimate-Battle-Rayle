@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Resource files.  This folder is reserved for certain prefabs that we will need to call by name directly or location.  Do not put anything in this folder unless directed to do so.

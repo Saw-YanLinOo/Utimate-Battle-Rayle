@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Textures. Textures, also called texture maps, are guides or maps (hence the name) for the material and threfore the engine how what pixel information to display at what part of the model.  These are used by materials to control the exact values of a materials properties at a given location on the model.

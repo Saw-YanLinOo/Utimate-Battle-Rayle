@@ -1,0 +1,6 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Unity Animation files.
+These are the animations that we make inside of unity itself using the Animation system and keyframing our movements, color changes, and turning objects on or off.

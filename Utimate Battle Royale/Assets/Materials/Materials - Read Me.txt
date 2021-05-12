@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Materials.  Materials are a complete definition for unity how how to display a surface from how shiny or dull is it to how bumpy is the surface.  The amount of these values is controlled by the texture maps we apply to the material.

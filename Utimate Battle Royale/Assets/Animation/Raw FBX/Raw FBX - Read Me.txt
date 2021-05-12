@@ -1,0 +1,6 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Raw FBX files.
+These are files that are usually a model or mesh along with an animation applied. These can also be just the animation information also.

@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Script files.  Any of the coding we do (in C#) will go into this folder.

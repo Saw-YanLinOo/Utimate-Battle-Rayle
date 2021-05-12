@@ -1,0 +1,6 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Animation Controllers files.
+These are the files that we will create inside of unity that tell the engine what animations to play under what conditions and in what state.  We will use programming to switch between these states.

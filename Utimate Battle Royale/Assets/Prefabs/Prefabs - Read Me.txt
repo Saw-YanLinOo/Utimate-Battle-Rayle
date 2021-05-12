@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Prefabs.  A Prefab (short for prefabrication) is sort of like a cookie cutter.  Each time we spawn(instantiate) one we will get an exact copy of the master (prefab) that we created.  These are used for many things including bullets, weapons, vehicles, and even characters!

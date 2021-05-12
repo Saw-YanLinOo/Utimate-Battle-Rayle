@@ -1,0 +1,5 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store some script files that need to either use the editor directly or extend the editor functions.  Do not put any scripts in here unless directed to do so.

@@ -1,0 +1,6 @@
+=================================
+Ultimate Battle Royale - Official
+=================================
+
+In this folder we store our Animation Clip files.
+These are the individual animations that have been segmented and saved out of the FXB files. These will be used in the Animation Controller.
